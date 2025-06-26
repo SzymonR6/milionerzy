@@ -13,6 +13,6 @@ Gra posiada prosty i intuicyjny interfejs, który pozwala szybko rozpocząć roz
 
 ## 🧰 Technologie
 
-- Python 3.x
+- C++
 - Tkinter (GUI)
 - Moduły standardowe: `random`, `tkinter`, `os`

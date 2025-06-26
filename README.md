@@ -14,5 +14,4 @@ Gra posiada prosty i intuicyjny interfejs, który pozwala szybko rozpocząć roz
 ## 🧰 Technologie
 
 - C++
-- Tkinter (GUI)
-- Moduły standardowe: `random`, `tkinter`, `os`
+- Moduły standardowe: `random`
